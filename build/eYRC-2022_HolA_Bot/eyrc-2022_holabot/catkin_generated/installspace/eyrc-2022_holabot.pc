@@ -1,0 +1,8 @@
+prefix=/home/dhruva/Documents/eyantra/task0/catkin_ws/install
+
+Name: eyrc-2022_holabot
+Description: Description of eyrc-2022_holabot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
